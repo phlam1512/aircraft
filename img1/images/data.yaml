@@ -1,0 +1,5 @@
+
+train: /Users/user/github/aircraft/img1/train
+val: /Users/user/github/aircraft/img1/valid
+names:
+  0: plane
